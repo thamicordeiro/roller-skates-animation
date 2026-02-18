@@ -1,26 +1,46 @@
-# Patins Animation 
+# 🛼 Patins Animation
 
-Projeto desenvolvido como prática do curso da Rocketseat. 
-Animação divertida com CSS para treinar **@keyframes**, **animation** e efeitos visuais. 
-👉 [Acesse o projeto aqui](https://thamicordeiro.github.io/patins-animation/) 
+## 📌 Sobre o projeto  
+Este projeto foi desenvolvido para praticar animações com CSS e melhorar a experiência visual da interface.  
+A ideia foi criar uma landing page moderna com foco em movimento, transições e interação visual.
 
 ---
 
-## Tecnologias 
-- HTML
-- CSS (Animation, Transition)
-- Git e GitHub
+## 🚀 Tecnologias  
+- HTML  
+- CSS  
+- CSS Animations  
+- Git e GitHub  
 
---- 
+---
+
+## ✨ Funcionalidades  
+- Animações suaves  
+- Transições entre elementos  
+- Interface moderna  
+- Layout responsivo  
+- Experiência visual mais dinâmica  
+
+---
+
+## 🧠 O que aprendi  
+- Criação de animações com CSS  
+- Uso de keyframes  
+- Transições e efeitos visuais  
+- Organização de código  
+- Boas práticas de layout  
+
+---
+
+
 ## Preview
 
 <img width="1749" height="919" alt="image" src="https://github.com/user-attachments/assets/5fbda413-c585-48f5-b102-c8a6411fbab8" />
 
+---
 
-## Aprendizados 
-Durante este projeto, pratiquei: 
-- Uso de `@keyframes` para criar animações
-- Diferença entre `transition` e `animation`
-- Uso de pseudo-elementos `::before` e `::after`
-- Estruturação básica de um site estático e deploy com GitHub Pages
--
+## 📎 Acesse o projeto  
+👉 https://thamicordeiro.github.io/patins-animation/
+
+--- 
+
