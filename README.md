@@ -40,7 +40,7 @@ A ideia foi criar uma landing page moderna com foco em movimento, transições e
 ---
 
 ## 📎 Acesse o projeto  
-👉 https://thamicordeiro.github.io/patins-animation/
+👉https://thamicordeiro.github.io/roller-skates-animation/
 
 --- 
 
